@@ -198,6 +198,8 @@ button{
   background-color: var(--bittersweet);
   border-radius: 20%;
   cursor: pointer;
+  float: right;
+  margin-right: 50px;
 }
 .open-menu:hover{
   background-color: var(--salmon);
