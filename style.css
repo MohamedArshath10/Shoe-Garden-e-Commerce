@@ -99,6 +99,7 @@ button{
   gap: 5px;
   padding: 14px 25px;
   border: 1px solid var(--bittersweet);
+  margin-left: 50px;
 }
 
 .btn-primary:hover{
@@ -174,7 +175,7 @@ button{
 
 .navbar-links{
   display: flex;
-  column-gap: 45px;
+  column-gap: 25px;
 }
 
 .navbar-links a{
