@@ -99,7 +99,6 @@ button{
   gap: 5px;
   padding: 14px 25px;
   border: 1px solid var(--bittersweet);
-  margin-left: 50px;
 }
 
 .btn-primary:hover{
