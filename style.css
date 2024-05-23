@@ -858,6 +858,9 @@ a.footer-link:hover {
   .navbar h1{
     font size: 20px;
   }
+  .newsletter-form button{
+      margin-right: 50px;
+  }
 }
 
 
