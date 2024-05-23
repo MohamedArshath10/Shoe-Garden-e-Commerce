@@ -859,7 +859,7 @@ a.footer-link:hover {
     font size: 20px;
   }
   .newsletter-form button{
-      margin-right: 50px;
+      display:none;
   }
 }
 
